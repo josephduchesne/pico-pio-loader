@@ -1,0 +1,24 @@
+{
+  "name": "pico-pio-loader",
+  "version": "0.0.1",
+  "description": "A simple library for managing loaded PIO programs on the Raspberry Pi Pico",
+  "keywords": "PIO, pi, pico, rp2040",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/josephduchesne/pico-pio-loader"
+  },
+  "authors":
+  [
+    {
+      "name": "Connor Douthat",
+      "url": "https://github.com/cadouthat"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cadouthat/pico-pio-loader",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "raspberrypi"
+}
